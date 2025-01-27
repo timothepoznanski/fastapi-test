@@ -1,1 +1,1 @@
-Example of a Python API (fastapi)
+Example of a Python API
